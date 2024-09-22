@@ -14,8 +14,8 @@
 ### 🚀 진행한 또는 진행 중인 프로젝트:
 | Year | Repository | Subject | URL |
 |---|---|---|---|
-| 2022 | Sexual-offense-analytics | '성범죄 발생률과 검거율의 상관관계'를 분석 | |
-| 2023 | Postpartum-care-in-rural-cities | 지방 도시의 산후조리원 폐업률과 발전 가능성 연구 | |
-| 2023 | Leisure-by-senior-online-capabilities | 노인의 온라인 정보 활용 능력에 따른 여가문화생활 | |
-| 2023 | Elementary-Multicultural-Policies | 문화 다양성 증대를 위한 초등학교 다문화 정책 제안 | |
+| 2022 | Sexual-offense-analytics | '성범죄 발생률과 검거율의 상관관계'를 분석 |https://github.com/IAMKIMEUNSEO/Sexual-offense-analytics.git |
+| 2023 | Postpartum-care-in-rural-cities | 지방 도시의 산후조리원 폐업률과 발전 가능성 연구 |https://github.com/IAMKIMEUNSEO/Postpartum-care-in-rural-cities.git |
+| 2023 | Leisure-by-senior-online-capabilities | 노인의 온라인 정보 활용 능력에 따른 여가문화생활 |https://github.com/IAMKIMEUNSEO/leisure-by-senior-online-capabilities.git |
+| 2023 | Elementary-Multicultural-Policies | 문화 다양성 증대를 위한 초등학교 다문화 정책 제안 |https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies.git |
 
