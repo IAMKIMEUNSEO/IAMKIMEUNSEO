@@ -11,11 +11,11 @@
 - `SQL`을 활용한 데이터베이스 관리
 - 기초 머신러닝
 
-### 🚀 진행한 또는 진행 중인 프로젝트:
-| Year | Repository | Subject | URL |
+### 🚀 진행한 또는 진행 중인 프로젝트
+| Year | Repository | Subject | 
 |---|---|---|---|
-| 2022 | Sexual-offense-analytics | '성범죄 발생률과 검거율의 상관관계'를 분석 |https://github.com/IAMKIMEUNSEO/Sexual-offense-analytics.git |
-| 2023 | Postpartum-care-in-rural-cities | 지방 도시의 산후조리원 폐업률과 발전 가능성 연구 |https://github.com/IAMKIMEUNSEO/Postpartum-care-in-rural-cities.git |
-| 2023 | Leisure-by-senior-online-capabilities | 노인의 온라인 정보 활용 능력에 따른 여가문화생활 |https://github.com/IAMKIMEUNSEO/leisure-by-senior-online-capabilities.git |
-| 2023 | Elementary-Multicultural-Policies | 문화 다양성 증대를 위한 초등학교 다문화 정책 제안 |https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies.git |
+| 2022 | [Sexual-offense-analytics](https://github.com/IAMKIMEUNSEO/Sexual-offense-analytics.git) |성범죄 발생률과 검거율의 상관관계
+| 2023 | [Postpartum-care-in-rural-cities](https://github.com/IAMKIMEUNSEO/Postpartum-care-in-rural-cities.git) | 지방 도시의 산후조리원 폐업률과 발전 가능성 연구 |
+| 2023 | [Leisure-by-senior-online-capabilities](https://github.com/IAMKIMEUNSEO/leisure-by-senior-online-capabilities.git) | 노인의 온라인 정보 활용 능력에 따른 여가문화생활 |
+| 2023 | [Elementary-Multicultural-Policies](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies.git) | 문화 다양성 증대를 위한 초등학교 다문화 정책 제안 |
 
