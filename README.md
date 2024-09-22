@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, IAMKIMEUNSEO👋
+저는 **데이터 분석가**가 되고 싶습니. 데이터를 이해하고, 해석하며, 시각화하는 기술을 배우고 익히는 중입니다.
 
-<!--
-**IAMKIMEUNSEO/IAMKIMEUNSEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 목표:
+- 데이터 분석에 필요한 기술과 문제 해결 능력을 기르기 위해 끊임없이 노력하고 있습니다.
+- 데이터와 관련된 다양한 분야, 예를 들어 데이터 과학, 비즈니스 인텔리전스, 데이터 엔지니어링에 관심을 가지고 탐구하고 있습니다.
+- 데이터를 통해 가치 있는 인사이트를 도출하는 능력을 키우기 위해 여러 프로젝트에 도전하고 있습니다.
 
-Here are some ideas to get you started:
+### 🌱 현재 배우고 있는 것:
+- 데이터 분석을 위한 파이썬 (`Pandas`, `NumPy`, `Matplotlib)`
+- `SQL`을 활용한 데이터베이스 관리
+- 기초 머신러닝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 🚀 진행한 프로젝트:
+  - 
+
