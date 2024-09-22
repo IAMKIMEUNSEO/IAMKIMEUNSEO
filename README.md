@@ -19,3 +19,5 @@
 | 2023 | [Leisure-by-senior-online-capabilities](https://github.com/IAMKIMEUNSEO/leisure-by-senior-online-capabilities.git) | 노인의 온라인 정보 활용 능력에 따른 여가문화생활 |
 | 2023 | [Elementary-Multicultural-Policies](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies.git) | 문화 다양성 증대를 위한 초등학교 다문화 정책 제안 |
 
+### 🍀 기타
+- [Velog](https://velog.io/@eunseo63/series)
