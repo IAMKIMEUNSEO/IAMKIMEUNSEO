@@ -13,7 +13,7 @@
 
 ### 🚀 진행한 또는 진행 중인 프로젝트
 | Year | Repository | Subject | File|
-|---|---|---|
+|---|---|---|---|
 | 2022 | [Sexual-offense-analytics](https://github.com/IAMKIMEUNSEO/Sexual-offense-analytics.git) |성범죄 발생률과 검거율의 상관관계
 | 2023 | [Postpartum-care-in-rural-cities](https://github.com/IAMKIMEUNSEO/Postpartum-care-in-rural-cities.git) | 지방 도시의 산후조리원 폐업률과 발전 가능성 연구 |
 | 2023 | [Leisure-by-senior-online-capabilities](https://github.com/IAMKIMEUNSEO/leisure-by-senior-online-capabilities.git) | 노인의 온라인 정보 활용 능력에 따른 여가문화생활 |
