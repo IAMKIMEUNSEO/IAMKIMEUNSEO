@@ -17,8 +17,7 @@
 | 2022 | [Sexual-offense-analytics](https://github.com/IAMKIMEUNSEO/Sexual-offense-analytics.git) |성범죄 발생률과 검거율의 상관관계
 | 2023 | [Postpartum-care-in-rural-cities](https://github.com/IAMKIMEUNSEO/Postpartum-care-in-rural-cities.git) | 지방 도시의 산후조리원 폐업률과 발전 가능성 연구 |
 | 2023 | [Leisure-by-senior-online-capabilities](https://github.com/IAMKIMEUNSEO/leisure-by-senior-online-capabilities.git) | 노인의 온라인 정보 활용 능력에 따른 여가문화생활 |
-| 2023 | [Elementary-Multicultural-Policies](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies.git) | 문화 다양성 증대를 위한 초등학교 다문화 정책 제안 | - [center_country.ipynb](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies/blob/main/Python/center_country.ipynb): 
-서울시 자치구별 국가별 등록외국인 수와 통번역 지원사 배치 현황 비교 분석
+| 2023 | [Elementary-Multicultural-Policies](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies.git) | 문화 다양성 증대를 위한 초등학교 다문화 정책 제안 | - [center_country.ipynb](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies/blob/main/Python/center_country.ipynb):  서울시 자치구별 국가별 등록외국인 수와 통번역 지원사 배치 현황 비교 분석
 
 ### 🍀 기타
 - [Velog](https://velog.io/@eunseo63/series)
