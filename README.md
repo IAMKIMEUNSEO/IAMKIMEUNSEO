@@ -22,14 +22,13 @@
 
 ### 🏆 공모전 및 대외활동
 - 멋쟁이사자처럼(2023): 전국 대학 연합 개발 동아리에서 활동하며 아이디어톤과 해커톤에 참여하였고, 해커톤에서는 프론트엔드 역할을 담당했습니다. 이후 1년 동안 '프론트엔드' 부문 임원으로 활동했습니다.
-![멋쟁이사자처럼](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EB%A9%8B%EC%9F%81%EC%9D%B4%20%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC.jpg)
 - [4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 선도전문대학(2023년도 하반기): ICT 솔루션 부문에서 '지방 도시 산후조리원의 폐업률과 발전 가능성에 대한 연구'를 주제로 참가하여 장려상을 수상했습니다. 팀 공모전으로, 파이썬을 활용해 데이터를 분석했습니다.
-![창의융합인재양성 공모전 선도전문대학(2023년도 하반기)](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/ICT%20%EC%86%94%EB%A3%A8%EC%85%98%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%83%81%EC%9E%A5.jpg)
 - 2024년 지·산·학 ICC 연계 공유·협업 「창업캠프」(2024.05.23. ~ 2024.05.24.): 송도에서 1박2일 동안 진행한 창업 경진대회로 팀원들과 협업해 사업계획서를 작성하고 PPT를 제작 및 발표하였습니다.
-![지·산·학 ICC 연계 공유·협업 「창업캠프」](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%A7%80%EC%82%B0%ED%95%99%20%EA%B3%B5%EC%9C%A0%ED%98%91%EC%97%85%EC%B0%BD%EC%97%85%EC%BA%A0%ED%94%84.jpg)
 - 캡스톤 디자인(2024): 팀 프로젝트로 진행되는 교내 수업으로 인공지능, 빅데이터, IOT 기술 등을 활용하여 서비스를 구현하고 있습니다.
 
+|멋쟁이사자처럼|창의융합인재양성|지·산·학|캡스톤 디자인|
+|:---:|:---:|:---:|:---:|
+|![멋쟁이사자처럼](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EB%A9%8B%EC%9F%81%EC%9D%B4%20%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC.jpg![창의융합인재양성 공모전 선도전문대학(2023년도 하반기)](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/ICT%20%EC%86%94%EB%A3%A8%EC%85%98%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%83%81%EC%9E%A5.jpg)|![지·산·학 ICC 연계 공유·협업 「창업캠프」](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%A7%80%EC%82%B0%ED%95%99%20%EA%B3%B5%EC%9C%A0%ED%98%91%EC%97%85%EC%B0%BD%EC%97%85%EC%BA%A0%ED%94%84.jpg)||
   
-
 ### 🍀 기타
 - [Velog](https://velog.io/@eunseo63/series)
