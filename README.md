@@ -12,13 +12,18 @@
 - 기초 머신러닝
 
 ### 🚀 진행한 또는 진행 중인 프로젝트
+
+**Main Project**<br>
+| Year | Repository | Subject | File|
+|2024| [Face-recognition-and-pose-detection](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection.git)|스요클(스마트 요가 클럽) - AI가 함께하는 건강한 습관 형성을 위한 요가 게임 플랫폼| [merge_flask.py](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/main/merge_flask.py)<br> 얼굴 인식을 통해 사용자를 식별하고, 요가 자세를 실시간으로 분석하여 피드백 제공
+
+**Other Projects**<br>
 | Year | Repository | Subject | File|
 |---|---|---|---|
-| 2022 | [Sexual-offense-analytics](https://github.com/IAMKIMEUNSEO/Sexual-offense-analytics.git) |성범죄 발생률과 검거율의 상관관계
-| 2023 | [Postpartum-care-in-rural-cities](https://github.com/IAMKIMEUNSEO/Postpartum-care-in-rural-cities.git) | 지방 도시의 산후조리원 폐업률과 발전 가능성 연구 |
+|2023 | [Elementary-Multicultural-Policies](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies.git) | 문화 다양성 증대를 위한 초등학교 다문화 정책 제안 |[korea_school.ipynb](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies/blob/main/Python/korea_school.ipynb) <br> 2014년에서 2023년 서울시 초등학교 입학생 수 및 학급당 학생 수 비율(%) <br> [culture_school.ipynb](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies/blob/main/Python/culture_school.ipynb)<br> 2014년에서 2023년 자치구별 다문화 학생 현황 <br> [center_country.ipynb](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies/blob/main/Python/center_country.ipynb)<br>서울시 자치구별 국가별 등록외국인 수와 통번역 지원사 배치 현황 비교 분석|
 | 2023 | [Leisure-by-senior-online-capabilities](https://github.com/IAMKIMEUNSEO/leisure-by-senior-online-capabilities.git) | 노인의 온라인 정보 활용 능력에 따른 여가문화생활 |
-| 2023 | [Elementary-Multicultural-Policies](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies.git) | 문화 다양성 증대를 위한 초등학교 다문화 정책 제안 |[korea_school.ipynb](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies/blob/main/Python/korea_school.ipynb) <br> 2014년에서 2023년 서울시 초등학교 입학생 수 및 학급당 학생 수 비율(%) <br> [culture_school.ipynb](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies/blob/main/Python/culture_school.ipynb)<br> 2014년에서 2023년 자치구별 다문화 학생 현황 <br> [center_country.ipynb](https://github.com/IAMKIMEUNSEO/Elementary-Multicultural-Policies/blob/main/Python/center_country.ipynb)<br>서울시 자치구별 국가별 등록외국인 수와 통번역 지원사 배치 현황 비교 분석
-|2024| [Face-recognition-and-pose-detection](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection.git)|스요클(스마트 요가 클럽) - AI가 함께하는 건강한 습관 형성을 위한 요가 게임 플랫폼| [merge_flask.py](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/main/merge_flask.py)<br> 얼굴 인식을 통해 사용자를 식별하고, 요가 자세를 실시간으로 분석하여 피드백 제공
+| 2023 | [Postpartum-care-in-rural-cities](https://github.com/IAMKIMEUNSEO/Postpartum-care-in-rural-cities.git) | 지방 도시의 산후조리원 폐업률과 발전 가능성 연구 |
+| 2022 | [Sexual-offense-analytics](https://github.com/IAMKIMEUNSEO/Sexual-offense-analytics.git) |성범죄 발생률과 검거율의 상관관계
 
 ### 🏆 공모전 및 대외활동
 - 멋쟁이사자처럼(2023): 전국 대학 연합 개발 동아리에서 활동하며 아이디어톤과 해커톤에 참여하였고, 해커톤에서는 프론트엔드 역할을 담당했습니다. 이후 1년 동안 '프론트엔드' 부문 임원으로 활동했습니다.
