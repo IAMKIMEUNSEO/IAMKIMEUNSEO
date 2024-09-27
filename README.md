@@ -13,7 +13,7 @@
 
 ### 🚀 진행한 또는 진행 중인 프로젝트
 
-**🌟 Main Project**<br>
+**Main Project**<br>
 | Year | Repository | Subject | File|
 |---|---|---|---|
 |2024| [Face-recognition-and-pose-detection](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection.git)|스요클(스마트 요가 클럽) - AI가 함께하는 건강한 습관 형성을 위한 요가 게임 플랫폼| [merge_flask.py](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/main/merge_flask.py)<br> 얼굴 인식을 통해 사용자를 식별하고, 요가 자세를 실시간으로 분석하여 피드백 제공
@@ -37,4 +37,5 @@
 |![멋쟁이사자처럼](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EB%A9%8B%EC%9F%81%EC%9D%B4%20%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC.jpg)|![창의융합인재양성 공모전 선도전문대학(2023년도 하반기)](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/ICT%20%EC%86%94%EB%A3%A8%EC%85%98%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%83%81%EC%9E%A5.jpg)|![지·산·학 ICC 연계 공유·협업 「창업캠프」](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%A7%80%EC%82%B0%ED%95%99%20%EA%B3%B5%EC%9C%A0%ED%98%91%EC%97%85%EC%B0%BD%EC%97%85%EC%BA%A0%ED%94%84.jpg)||
   
 ### 🍀 기타
-- [Velog](https://velog.io/@eunseo63/series)
+- [velog - Git & GitHub](https://velog.io/@eunseo63/series/%EA%B9%83-%EA%B9%83%ED%97%88%EB%B8%8C)
+- [velog - 데이터 분석&시각화](https://velog.io/@eunseo63/series/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%8B%9C%EA%B0%81%ED%99%94)
