@@ -8,7 +8,8 @@
 
 ### 🌱 현재 배우고 있는 것
 - 데이터 분석을 위한 파이썬 (**`Pandas`**, **`NumPy`**, **`Matplotlib`** 등 다양한 라이브러리)
-  - [`merge_flask.py` 중 `Numpy`](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/a7726e21c27f4271690ee8a9d23af6252389c771/merge_flask.py#L48-L55)
+  - [`merge_flask.py`](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/a7726e21c27f4271690ee8a9d23af6252389c771/merge_flask.py#L48-L55)
+  - 
 - `SQL`을 활용한 데이터베이스 관리
 - 기초 머신러닝
 
