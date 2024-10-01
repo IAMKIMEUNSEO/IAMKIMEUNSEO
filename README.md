@@ -8,16 +8,7 @@
 
 ### 🌱 현재 배우고 있는 것
 - 데이터 분석을 위한 파이썬 (**`Pandas`**, **`NumPy`**, **`Matplotlib`** 등 다양한 라이브러리)
-```python
-  # 각도 계산 함수
-def calculate_angle(a, b, c):
-    a = np.array(a)  # 좌표를 배열로 변환
-    b = np.array(b)
-    c = np.array(c)
-    
-    radians = np.arctan2(c[1] - b[1], c[0] - b[0]) - np.arctan2(a[1] - b[1], a[0] - b[0])  # 각도 계산
-    angle = np.abs(radians * 180.0 / np.pi)  # 라디안을 각도로 변환
- ```
+  - [`merge_flask.py` 중 `Numpy`](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/a7726e21c27f4271690ee8a9d23af6252389c771/merge_flask.py#L48-L55)
 - `SQL`을 활용한 데이터베이스 관리
 - 기초 머신러닝
 
