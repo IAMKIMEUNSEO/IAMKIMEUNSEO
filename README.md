@@ -40,7 +40,7 @@
 
 |지·산·학  ICC 연계 공유·협업 「창업캠프」|캡스톤 디자인|
 |:---:|:---:|
-|![지·산·학 ICC 연계 공유·협업 「창업캠프」](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%A7%80%EC%82%B0%ED%95%99%20%EA%B3%B5%EC%9C%A0%ED%98%91%EC%97%85%EC%B0%BD%EC%97%85%EC%BA%A0%ED%94%84.jpg)||![캡스톤](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/capstone.jpg)|
+|![지·산·학 ICC 연계 공유·협업 「창업캠프」](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%A7%80%EC%82%B0%ED%95%99%20%EA%B3%B5%EC%9C%A0%ED%98%91%EC%97%85%EC%B0%BD%EC%97%85%EC%BA%A0%ED%94%84.jpg)||![캡스톤](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/5c08b80f79088231cdc5faeafdd5f151ed9daf18/capstone.jpg)|
   
 ### 🍀 기타
 - [velog - Git & GitHub](https://velog.io/@eunseo63/series/%EA%B9%83-%EA%B9%83%ED%97%88%EB%B8%8C)
