@@ -19,7 +19,7 @@
 **Main Project**<br>
 | Year | Repository | Subject | File|
 |---|---|---|---|
-|2024| [Face-recognition-and-pose-detection](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection.git)|스요클(스마트 요가 클럽) - AI가 함께하는 건강한 습관 형성을 위한 요가 게임 플랫폼| [merge_flask.py](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/main/merge_flask.py)<br> 얼굴 인식을 통해 사용자를 식별하고, 요가 자세를 실시간으로 분석하여 피드백 제공
+|2024| [Face-recognition-and-pose-detection](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection.git)|스요클(스마트 요가 클럽) - AI가 함께하는 건강한 습관 형성을 위한 요가 게임 플랫폼| [finger_flask.py](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/main/finger_flask.py)<br> 손동작 인지로 회원가입과 로그인을 진행한 다음, 얼굴 인식을 통해 사용자를 식별하고, 요가 자세를 실시간으로 분석하여 피드백 제공<br>[stt_flask.py](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/main/stt_flask.py)<br>음성인식으로 회원가입과 로그인을 진행한 다음, 얼굴 인식을 통해 사용자를 식별하고, 요가 자세를 실시간으로 분석하여 피드백 제공
 
 **Other Projects**<br>
 | Year | Repository | Subject | File|
