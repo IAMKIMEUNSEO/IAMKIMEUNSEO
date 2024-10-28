@@ -34,14 +34,14 @@
 -  **2024년 지·산·학 ICC 연계 공유·협업 「창업캠프」**: 송도에서 1박 2일 동안 열린 창업 경진대회에 참여해 AI 기반 요가 플랫폼 '스요클(스마트 요가 클럽)'을 주제로 사업계획서를 작성했습니다. '스요클'은 AI가 사용자에게 맞춤형 요가 동작을 제공하고, 게임 요소를 접목해 건강한 습관 형성을 돕는 서비스입니다. 팀원들과 시장 및 경쟁사 분석, 재무 계획 등을 포함한 계획서를 작성하고, 발표를 위한 PPT를 제작하면서 창업 아이디어를 구체화하고 사업화 가능성을 검토했습니다.
 - **캡스톤 디자인(2024)**: 교내 팀 프로젝트로 인공지능과 빅데이터를 활용한 '스요클(스마트 요가 클럽)' 서비스를 구현하고 있습니다. AI를 통해 사용자 맞춤형 요가 프로그램을 제공하며, 빅데이터로 개인 운동 성과를 분석하는 시스템을 개발 중입니다. 게임 요소를 더해 재미있고 지속적인 건강 관리를 돕는 것을 목표로 하고 있습니다.
 
-|멋쟁이사자처럼|창의융합인재양성 공모전 선도전문대학|
-|:---:|:---:|
-|![멋쟁이사자처럼](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EB%A9%8B%EC%9F%81%EC%9D%B4%20%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC.jpg)|![창의융합인재양성 공모전 선도전문대학(2023년도 하반기)](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/ICT%20%EC%86%94%EB%A3%A8%EC%85%98%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%83%81%EC%9E%A5.jpg)|
+|멋쟁이사자처럼|창의융합인재양성 공모전 선도전문대학|캡스톤 디자인|
+|:---:|:---:|:---:|
+|![멋쟁이사자처럼](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EB%A9%8B%EC%9F%81%EC%9D%B4%20%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC.jpg)|![창의융합인재양성 공모전 선도전문대학(2023년도 하반기)](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/ICT%20%EC%86%94%EB%A3%A8%EC%85%98%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%83%81%EC%9E%A5.jpg)||![캡스톤](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/capstone.jpg?raw=true)|
+  
 
 |지·산·학  ICC 연계 공유·협업 「창업캠프」|캡스톤 디자인|
 |:---:|:---:|
-|![지·산·학 ICC 연계 공유·협업 「창업캠프」](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%A7%80%EC%82%B0%ED%95%99%20%EA%B3%B5%EC%9C%A0%ED%98%91%EC%97%85%EC%B0%BD%EC%97%85%EC%BA%A0%ED%94%84.jpg)||![캡스톤](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/capstone.jpg?raw=true)|
-  
+|![지·산·학 ICC 연계 공유·협업 「창업캠프」](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%A7%80%EC%82%B0%ED%95%99%20%EA%B3%B5%EC%9C%A0%ED%98%91%EC%97%85%EC%B0%BD%EC%97%85%EC%BA%A0%ED%94%84.jpg)|
 ### 🍀 기타
 - [velog - Git & GitHub](https://velog.io/@eunseo63/series/%EA%B9%83-%EA%B9%83%ED%97%88%EB%B8%8C)
 - [velog - 데이터 분석&시각화](https://velog.io/@eunseo63/series/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%8B%9C%EA%B0%81%ED%99%94)
