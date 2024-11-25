@@ -39,9 +39,13 @@
 |:---:|:---:|
 |![멋쟁이사자처럼](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EB%A9%8B%EC%9F%81%EC%9D%B4%20%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC.jpg)|![창의융합인재양성 공모전 선도전문대학(2024년도 하반기)](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%EC%82%B0%EC%B6%9C%EB%AC%BC%20%EC%9A%B0%EC%88%98%EC%83%81.jpg)|
   
-|지·산·학  ICC 연계 공유·협업 「창업캠프」|캡스톤 디자인|
-|:---:|:---:|
-|![지·산·학 ICC 연계 공유·협업 「창업캠프」](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%A7%80%EC%82%B0%ED%95%99%20%EA%B3%B5%EC%9C%A0%ED%98%91%EC%97%85%EC%B0%BD%EC%97%85%EC%BA%A0%ED%94%84.jpg)||![캡스톤](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A4.jpg)|
+|지·산·학  ICC 연계 공유·협업 「창업캠프」|
+|:---:|
+|![지·산·학 ICC 연계 공유·협업 「창업캠프」](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%A7%80%EC%82%B0%ED%95%99%20%EA%B3%B5%EC%9C%A0%ED%98%91%EC%97%85%EC%B0%BD%EC%97%85%EC%BA%A0%ED%94%84.jpg)|
+
+|캡스톤 디자인|
+|:---:|
+![캡스톤](https://github.com/IAMKIMEUNSEO/IAMKIMEUNSEO/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A4.jpg)|
 
 ### 🍀 기타
 - [velog - Git & GitHub](https://velog.io/@eunseo63/series/%EA%B9%83-%EA%B9%83%ED%97%88%EB%B8%8C)
