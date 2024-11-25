@@ -12,7 +12,7 @@
   - **`Numpy`**: [`merge_flask.py`](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/a7726e21c27f4271690ee8a9d23af6252389c771/merge_flask.py#L48-L55)
   - **`Matplotlib`**: `leisure_space_age.ipynb`에서 [`In [15]`](https://github.com/IAMKIMEUNSEO/leisure-by-senior-online-capabilities/blob/ebd8df60f0251fd921684f477158a147f90a1eb1/Python/leisure_space_age.ipynb#L1246-L1262)
 -  `SQL`을 활용한 데이터베이스 관리
--  `Flask`, `cv`, `MediaPipe`를 활용한 기초 머신러닝: [`finger_flask.py`](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/main/finger_flask.py), [`stt_flask.py`](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/main/stt_flask.py)
+-  `Flask`, `cv`, `MediaPipe`를 활용한 기초 머신러닝: [finger_flask_ver2.py](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/main/finger_flask_ver2.py) [`stt_flask.py`](https://github.com/2024-four-leaf-clover/Face-recognition-and-pose-detection/blob/main/stt_flask.py)
 
 ### 🚀 진행한 또는 진행 중인 프로젝트
 
